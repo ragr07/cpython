@@ -1995,6 +1995,6 @@ def main():
                      "Tools/scripts/2to3"]
         )
 
-# --install-platlib
+# --install-platlib--
 if __name__ == '__main__':
     main()
